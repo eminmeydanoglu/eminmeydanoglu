@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-meydanoglu.com
+https://meydanoglu.com
 
 
